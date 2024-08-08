@@ -6,13 +6,13 @@ include 'koneksi.php';
   <div class="container my-auto">
     <div class="copyright text-center my-auto">
       <!------- Link back kalau copyrigth diganti atau dihapus --------->
-      <div class="copyright-area">&#169; Version 1.0 | Aplikasi Koperasi 
+      <div class="copyright-area">&#169; Version 2.0 | Aplikasi Koperasi 
         <script type="text/javascript">
           var creditsyear = new Date();document.write(creditsyear.getFullYear());
         </script> 
         <a class="mycontent" href="https://id.linkedin.com/in/mahisataruna24/" id="mycontent" > </a>
       </div>
-      <!------- Mahisa Taruna 161100008 - STMIK Indonesia Padang 2021 --------->
+      <!-- version 2.0 updates -->
     </div>
   </div>
 </footer>

@@ -20,12 +20,21 @@
     </h3>
 </div>
 
+## Role
+
+- Admin
+- Pemilik
+- Anggota
+
 ## Feature
 
-- Simpan pinjam
-- Bagi Hasil
-- Angsuran
-- Dan fitur lainnya
+- Dashboard
+- Profile Menu & Edit
+- Transaction Menu `simpan, pinjam, angsuran, infaq, bagi hasil`
+- Laporan `(report)`
+- Menu Management
+- Submenu Management
+- Gallery & News `Landing page CMS`
 
 ## Download
 
@@ -33,9 +42,9 @@ Download New Update! [Github](https://github.com/mahisataruna/Koperasi-Syariah-2
 
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/mahisataruna/Koperasi-Syariah-2) [![Pling](https://img.shields.io/badge/Pling-Products-EB6920.svg?style=flat&logo=kde)](https://www.pling.com/p/2174571/)
 
-## Changelog
+## Noted
 
-- Merge to version 2.0
+- feel free for `updates` or `collaboration`.
 
 <br>
 
@@ -43,5 +52,5 @@ Download New Update! [Github](https://github.com/mahisataruna/Koperasi-Syariah-2
   <a href="https://t.me/algorithmdev"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
   <a href="https://t.me/algorithm_dev"><img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=social"></a>
   <br/>
-  © Koperasi Syariah Version 2.0 | 2024
+  © Koperasi Syariah | Version 2.0 | 2021 - 2025
 </p>

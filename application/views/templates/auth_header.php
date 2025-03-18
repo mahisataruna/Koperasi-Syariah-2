@@ -26,4 +26,4 @@
 
 </head>
 <!-- Warna landing page login dan Register -->
-<body class="bg-gradient-primary">
+<body class="bg-gradient-login">

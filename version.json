@@ -2,5 +2,6 @@
 	"version": "2.0 - Free and Premium version",
 	"versionCode": 20,
 	"zipUrl": "aplikasi-koperasi-v2.0.zip",
+	"dbLink": "https://www.mediafire.com/file/b1t1o3xk2vq5vl5/db_aplikasikoperasi.sql/file",
 	"changelog": "Update version to 2.0 and Premium Version"
 }
